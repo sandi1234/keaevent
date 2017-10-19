@@ -1,0 +1,101 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.max-960{
+  margin: 0 auto;
+  max-width: 1110px;
+}
+
+.top-header{
+  margin-top: -50px;
+}
+
+.youtube-clip{
+  margin: 0 auto;
+}
+
+.form-signin{
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox{
+  margin-bottom: 10px;
+}
+.form-signin .checkbox{
+  font-weight: normal;
+}
+
+.line-break{
+  border: 1px solid black;
+}
+
+.bg-dark{
+  background-color: #343a40!important;
+}
+
+.navbar-brand{
+  color: whitesmoke;
+}
+
+.navbar-brand:hover{
+  color: #ccc;
+}  
+
+nav ul li a:hover{
+  color: #ccc;
+}
+nav ul li a{
+  background-color: #343a40!important;
+  
+  color: whitesmoke;
+}
+
+.events .event, .centertext {
+  display: inline-flex;
+  width: 100%;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.events img {
+  width: 50px;
+  height: 50px;
+}
+
+.content {
+  margin-right: 300px;
+}
+
+#subscribe {
+  position: absolute;
+  right: 0;
+  margin-right: 300px;
+}
+
+.zero-mg-top{
+  margin-top: -20px;
+}
+
+.jumbotron{
+  border-radius: 0px;
+}
+
+#no-radius{
+  border-radius: 0px;
+}
+
+.max-1110{
+  max-width: 1110px !important;
+}
+
+nav{
+  margin: 0 auto;
+}
