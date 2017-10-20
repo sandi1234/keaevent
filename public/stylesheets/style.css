@@ -99,3 +99,7 @@ nav ul li a{
 nav{
   margin: 0 auto;
 }
+
+.navbar-toggle .icon-bar{
+  background-color: whitesmoke;
+}
